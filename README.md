@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🎓 <b>Junior Biomedical Informatics Student At Nile University</b> • Class of <b>2027</b> 🇪🇬
+  🎓 <b>Junior Computer Science Student At Nile University</b> • Class of <b>2027</b> 🇪🇬
 </p>
 
 
