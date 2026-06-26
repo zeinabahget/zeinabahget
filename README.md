@@ -1,79 +1,174 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hey!+I'm+Zeina" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zeina+Mohamed;Biomedical+Informatics+%40+Nile+University;AI+%7C+Full-Stack+%7C+Bioinformatics;Building+the+future+of+healthcare+tech)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250" alt="AI coding"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header&fontSize=0" />
 
-<p align="center">
-  🎓 <b>Junior Computer Science Student At Nile University</b> • Class of <b>2027</b> 🇪🇬
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/zeina-mohamed-b83b97316)
+[![Email](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeinabahget@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeinabahget)
 
+</div>
 
 ---
 
-### 🌟 About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> About Me
 
-- 💻 Biomedical Informatics Student  
-- 🤖 Passionate about *Machine Learning* & *AI in Healthcare*  
-- 📊 Interested in *Data Analysis* and *Medical AI Applications*  
-- 🐍 I code in *Python, **C++, and **Java*  
-- 🏥 Building the future of healthcare technology  
-- 📚 Always learning something new  
-- ✨ Love solving real-world problems with code  
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" height="60"/>
-  <br>
-  <!-- AI / ML / DL -->
-  <br>
-  <!-- Medical / Bio -->
-  <br>
-  <!-- Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="60"/>
-</p>
+```python
+zeina = {
+    "degree"    : "Biomedical Informatics @ Nile University (Class of 2027)",
+    "minor"     : "Software Engineering",
+    "focus"     : ["AI in Healthcare", "Full-Stack Development", "Bioinformatics"],
+    "tools"     : ["Python", "React.js", "C#.NET", "R", "TensorFlow"],
+    "currently" : "Seeking internships in AI / Health Informatics / Software",
+    "fun_fact"  : "I train deep learning models to see what human eyes might miss"
+}
+```
 
 ---
 
-### 📊 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassminAhmed10&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassminAhmed10&theme=radical&hide_border=true" width="48%" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassminAhmed10&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20"/> EyeVengers
+**Web-Based Ophthalmology Clinic System**
+> ASP.NET Core 8 · React · HL7 FHIR R4 · Tailwind CSS
+
+5-module integrated platform: ClinicSystem, Patient Service, Radiology, Pharmacy & GlassStore. Built for real clinical workflows.
+
+[![UGRF](https://img.shields.io/badge/UGRF-Competition-A855F7?style=flat-square)](https://github.com/zeinabahget)
+
+</td>
+<td width="50%">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> ECOv
+**Industrial Waste Exchange Platform**
+> .NET 8 · React 19 · SQL Server · Entity Framework
+
+Circular economy platform connecting Egyptian factories to convert industrial waste into reusable resources, with automated environmental impact metrics.
+
+[![Hackathon](https://img.shields.io/badge/Circular_Economy-Hackathon-7C3AED?style=flat-square)](https://github.com/zeinabahget)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20"/> Diabetic Retinopathy Detection
+**Deep Learning Medical Imaging**
+> Python · ResNet-50 · EfficientNetB5 · TensorFlow
+
+Fine-tuned models on APTOS 2019 dataset achieving **93% accuracy** and **QWK ≥ 0.89** across 5 DR stages. Deployed as a real-time web screening tool.
+
+</td>
+<td width="50%">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> RYYZ Store
+**AI-Powered E-Commerce Platform**
+> React.js · Django · DRF · PostgreSQL
+
+Multi-role platform (Customer / Employee / Admin) with an AI chatbot for outfit recommendations and automated order emails.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20"/> RNA-Seq Differential Expression
+**Bioinformatics Analysis — Zebrafish Injury Model**
+> R · edgeR · TMM Normalization · pheatmap
+
+Full DE pipeline identifying **491 significant DEGs** (FDR < 0.05) via GLM quasi-likelihood testing. Visualized via MDS, volcano plots & heatmaps.
+
+*Colors Educational Hub — RNA-Seq Hands-on Training*
+
+</td>
+<td width="50%">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Antibiotic Resistance Gene Detection
+**AI · Bioinformatics Research**
+> Python · Deep Learning · Genomics
+
+AI model for identifying resistance genes in bacterial genomic data.
+
+[![Published](https://img.shields.io/badge/UGRF-Accepted_for_Publication-A855F7?style=flat-square)](https://github.com/zeinabahget)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💌 Let's Connect  
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/> Tech Stack
 
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="140"/>
-  </a>
-  <a href="mailto:Y.Ahmed2354@nu.edu.eg">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="120"/>
-  </a>
-  <a href="https://github.com/YassminAhmed10">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" width="130"/>
-  </a>
-</p>
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5B21B6?style=for-the-badge&logo=javascript&logoColor=white)
+![R](https://img.shields.io/badge/R-A855F7?style=for-the-badge&logo=r&logoColor=white)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6D28D9?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5B21B6?style=for-the-badge&logo=dotnet&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-A855F7?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-5B21B6?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-A855F7?style=for-the-badge&logo=keras&logoColor=white)
+
+**Data & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5B21B6?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-A855F7?style=for-the-badge&logo=docker&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-7C3AED?style=for-the-badge&logo=mathworks&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
-</p>
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zeinabahget&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=E2D9F3" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinabahget&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabahget&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=E2D9F3" width="40%" />
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/> Highlights
+
+- ![award](https://img.shields.io/badge/-UGRF_Multi--track_Winner-A855F7?style=flat-square&logo=trophy&logoColor=white) Software Engineering, Clinical Informatics & Bioinformatics
+- ![hospital](https://img.shields.io/badge/-Health_Informatics_Intern-7C3AED?style=flat-square&logo=hospital&logoColor=white) Children's Cancer Hospital Egypt 57357
+- ![research](https://img.shields.io/badge/-Undergraduate_Research_Participant-6D28D9?style=flat-square&logo=academia&logoColor=white) 19th UGRF
+- ![robotics](https://img.shields.io/badge/-Robotics_Training-5B21B6?style=flat-square&logo=arduino&logoColor=white) RPM Automation Systems
+- ![bio](https://img.shields.io/badge/-RNA--Seq_Certified-A855F7?style=flat-square&logo=r&logoColor=white) Colors Educational Hub
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&fontSize=0" />
+
+*"The best way to predict the future of healthcare is to build it."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zeinabahget.zeinabahget&color=A855F7)
+
+</div>
