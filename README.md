@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zeina+Mohamed;Biomedical+Informatics+%40+Nile+University;AI+%7C+Full-Stack+%7C+Bioinformatics;Building+the+future+of+healthcare+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zeina+Mohamed;Computer+Science+%26+Biomedical+Informatics+%40+Nile+University;AI+%7C+Full-Stack+%7C+Data+Science;Building+the+future+of+healthcare+tech)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header&fontSize=0" />
 
@@ -16,9 +16,8 @@
 
 ```python
 zeina = {
-    "degree"    : "Biomedical Informatics @ Nile University (Class of 2027)",
-    "minor"     : "Software Engineering",
-    "focus"     : ["AI in Healthcare", "Full-Stack Development", "Bioinformatics"],
+    "degree"    : "B.Sc. in Computer Science & Biomedical Informatics @ Nile University (Class of 2027)",
+    "focus"     : ["AI in Healthcare", "Full-Stack Development", "Data Science & Machine Learning"],
     "tools"     : ["Python", "React.js", "C#.NET", "R", "TensorFlow"],
     "currently" : "Seeking internships in AI / Health Informatics / Software",
     "fun_fact"  : "I train deep learning models to see what human eyes might miss"
@@ -155,9 +154,9 @@ AI model for identifying resistance genes in bacterial genomic data.
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/> Highlights
 
-- ![award](https://img.shields.io/badge/-UGRF_Multi--track_Winner-A855F7?style=flat-square&logo=trophy&logoColor=white) Software Engineering, Clinical Informatics & Bioinformatics
+- ![award](https://img.shields.io/badge/-UGRF_Multi--track_Winner-A855F7?style=flat-square&logo=trophy&logoColor=white) 1st Place — Software Engineering, Clinical Informatics & Bioinformatics Tracks, 21st UGRF
 - ![hospital](https://img.shields.io/badge/-Health_Informatics_Intern-7C3AED?style=flat-square&logo=hospital&logoColor=white) Children's Cancer Hospital Egypt 57357
-- ![research](https://img.shields.io/badge/-Undergraduate_Research_Participant-6D28D9?style=flat-square&logo=academia&logoColor=white) 19th UGRF
+- ![research](https://img.shields.io/badge/-Undergraduate_Research_Presenter-6D28D9?style=flat-square&logo=academia&logoColor=white) 20th UGRF, 1st International Junior Researcher Competition
 - ![robotics](https://img.shields.io/badge/-Robotics_Training-5B21B6?style=flat-square&logo=arduino&logoColor=white) RPM Automation Systems
 - ![bio](https://img.shields.io/badge/-RNA--Seq_Certified-A855F7?style=flat-square&logo=r&logoColor=white) Colors Educational Hub
 
