@@ -31,11 +31,11 @@ zeina = {
 
 <img align="right" width="320" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
 
-- 🔬 Building AI systems for real clinical & research problems
-- 🏆 3× 1st Place winner @ 21st UGRF
-- 🧬 Passionate about the intersection of data science & healthcare
-- 🌱 Always learning — currently deep in ML pipelines & full-stack systems
-- 💜 Ask me about deep learning, bioinformatics, or React
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="16"/> Building AI systems for real clinical & research problems
+- <img src="https://img.shields.io/badge/-Trophy-A855F7?style=flat-square&logo=trophy&logoColor=white" height="18"/> 3× 1st Place winner @ 21st UGRF
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="16"/> Passionate about the intersection of data science & healthcare
+- <img src="https://img.shields.io/badge/-Growth-7C3AED?style=flat-square&logo=leaflet&logoColor=white" height="18"/> Always learning — currently deep in ML pipelines & full-stack systems
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> Ask me about deep learning, bioinformatics, or React
 
 <br clear="right"/>
 
@@ -185,11 +185,11 @@ AI model for identifying resistance genes in bacterial genomic data.
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/> Highlights
 
-- 🏆 ![award](https://img.shields.io/badge/-UGRF_Multi--track_Winner-A855F7?style=flat-square&logo=trophy&logoColor=white) 1st Place — Software Engineering, Clinical Informatics & Bioinformatics Tracks, 21st UGRF
-- 🏥 ![hospital](https://img.shields.io/badge/-Health_Informatics_Intern-7C3AED?style=flat-square&logo=hospital&logoColor=white) Children's Cancer Hospital Egypt 57357
-- 🔬 ![research](https://img.shields.io/badge/-Undergraduate_Research_Presenter-6D28D9?style=flat-square&logo=academia&logoColor=white) 20th UGRF, 1st International Junior Researcher Competition
-- 🤖 ![robotics](https://img.shields.io/badge/-Robotics_Training-5B21B6?style=flat-square&logo=arduino&logoColor=white) RPM Automation Systems
-- 🧬 ![bio](https://img.shields.io/badge/-RNA--Seq_Certified-A855F7?style=flat-square&logo=r&logoColor=white) Colors Educational Hub
+- ![award](https://img.shields.io/badge/-UGRF_Multi--track_Winner-A855F7?style=flat-square&logo=trophy&logoColor=white) 1st Place — Software Engineering, Clinical Informatics & Bioinformatics Tracks, 21st UGRF
+- ![hospital](https://img.shields.io/badge/-Health_Informatics_Intern-7C3AED?style=flat-square&logo=hospital&logoColor=white) Children's Cancer Hospital Egypt 57357
+- ![research](https://img.shields.io/badge/-Undergraduate_Research_Presenter-6D28D9?style=flat-square&logo=academia&logoColor=white) 20th UGRF, 1st International Junior Researcher Competition
+- ![robotics](https://img.shields.io/badge/-Robotics_Training-5B21B6?style=flat-square&logo=arduino&logoColor=white) RPM Automation Systems
+- ![bio](https://img.shields.io/badge/-RNA--Seq_Certified-A855F7?style=flat-square&logo=r&logoColor=white) Colors Educational Hub
 
 ---
 
@@ -197,7 +197,7 @@ AI model for identifying resistance genes in bacterial genomic data.
 
 <div align="center">
 
-💜 Always open to chatting about AI in healthcare, data science, or collaborating on something interesting.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> Always open to chatting about AI in healthcare, data science, or collaborating on something interesting.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/zeina-mohamed-b83b97316)
 [![Email](https://img.shields.io/badge/Say_Hello-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeinabahget@gmail.com)
